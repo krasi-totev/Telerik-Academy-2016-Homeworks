@@ -1,5 +1,0 @@
-F:\C#\Intro-Programming-Homework\PrintASequence\bin\Debug\PrintASequence.exe.config
-F:\C#\Intro-Programming-Homework\PrintASequence\bin\Debug\PrintASequence.exe
-F:\C#\Intro-Programming-Homework\PrintASequence\bin\Debug\PrintASequence.pdb
-F:\C#\Intro-Programming-Homework\PrintASequence\obj\Debug\PrintASequence.exe
-F:\C#\Intro-Programming-Homework\PrintASequence\obj\Debug\PrintASequence.pdb

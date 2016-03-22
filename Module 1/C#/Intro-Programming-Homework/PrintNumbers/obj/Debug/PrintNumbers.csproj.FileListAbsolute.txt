@@ -1,5 +1,0 @@
-F:\C#\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
-F:\C#\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
-F:\C#\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
-F:\C#\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
-F:\C#\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

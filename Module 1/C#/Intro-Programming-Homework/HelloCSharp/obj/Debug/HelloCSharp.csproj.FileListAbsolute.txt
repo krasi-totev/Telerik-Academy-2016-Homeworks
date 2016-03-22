@@ -1,6 +1,0 @@
-F:\C#\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
-F:\C#\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe
-F:\C#\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.pdb
-F:\C#\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
-F:\C#\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.exe
-F:\C#\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.pdb

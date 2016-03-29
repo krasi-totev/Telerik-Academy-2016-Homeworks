@@ -9,6 +9,6 @@ public class SquareRoot
     {
         int number = 12345;
         double squareRoot = Math.Sqrt(number);
-        Console.WriteLine("The square root of " + number + " is: " + squareRoot);
+        Console.WriteLine(squareRoot);
     }
 }

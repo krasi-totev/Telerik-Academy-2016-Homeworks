@@ -14,7 +14,7 @@ public class PrintASequence
             }
             else
             {
-                Console.WriteLine(" " + i);
+                Console.WriteLine(i);
             }           
         }
     }

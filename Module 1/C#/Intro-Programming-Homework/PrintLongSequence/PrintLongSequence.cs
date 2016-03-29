@@ -7,22 +7,15 @@ public class PrintLongSequence
 {
     static void Main()
     {
-        int count = 0;
-
         for (int i = 2; i <= 1001; i++)
         {
-            count++;
-            if (count % 10 == 0)
-            {
-                Console.WriteLine();
-            }
             if (i % 2 != 0)
             {
-                Console.Write(i - 2 * i + ", ");
+                Console.WriteLine(i - 2 * i);
             }
             else
             {
-                Console.Write(i + ", ");
+                Console.WriteLine(i);
             }
         }
         Console.WriteLine();
